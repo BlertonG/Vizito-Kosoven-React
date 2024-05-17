@@ -27,6 +27,7 @@ a {
     height: 8vh;
     background: rgb(0, 33, 65);
 }
+
 .nav__brand {
     text-transform: uppercase;
     font-weight: bold;
@@ -50,3 +51,6 @@ a {
     transition: 0.3s ease-in;
 }
 
+.nav ul li a:hover {
+    color: yellow;
+}

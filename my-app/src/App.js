@@ -4,10 +4,10 @@ import Navbar from "./Components/Navbar/Navbar";
 
 
 import {Route} from "react-router-dom";
-import ImagesSlider from "./Components/Navbar/Home";
-import SliderComponent from "./Components/Navbar/Home";
-import CarouselPage from "./Components/Navbar/Home";
-import HomePage from "./Components/Navbar/Home";
+import ImagesSlider from "./Components/Home Page/Home";
+import SliderComponent from "./Components/Home Page/Home";
+import CarouselPage from "./Components/Home Page/Home";
+import HomePage from "./Components/Home Page/Home";
 
 
 
