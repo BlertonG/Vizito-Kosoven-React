@@ -7,9 +7,8 @@
     align-items: center;
     justify-content: center;
     flex-direction: column;
-
-
 }
+
 .text {
     color: rgb(0, 33, 65);
 }
@@ -31,4 +30,11 @@
 
 .btn-1:hover {
     opacity: 1;
+}
+
+/* Rregullo stilin e butonit për ekranet më të vogla */
+@media screen and (max-width: 768px) {
+    .btn-1 {
+
+    }
 }
