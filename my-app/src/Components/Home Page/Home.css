@@ -32,7 +32,7 @@
     opacity: 1;
 }
 
-/* Rregullo stilin e butonit për ekranet më të vogla */
+
 @media screen and (max-width: 768px) {
     .btn-1 {
 

@@ -10,6 +10,8 @@ import SliderComponent from "./Components/Home Page/Home";
 import CarouselPage from "./Components/Home Page/Home";
 import HomePage from "./Components/Home Page/Home";
 import AboutPage from "./Components/About Page/about";
+import ContactForm from "./Components/Contact Form/contact-form";
+import Footer from "./Components/Footer/footer";
 
 
 
@@ -19,6 +21,8 @@ function App() {
      <Navbar/>
        <HomePage/>
        <AboutPage/>
+       <ContactForm/>
+       <Footer/>
 
 
    </>

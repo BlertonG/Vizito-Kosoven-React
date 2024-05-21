@@ -2,9 +2,9 @@ import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import "./about.css";
 import img1 from "./trend.png";
-import img2 from "./group.png";  // Replace with the actual path to your image
-import img3 from "./language.png";     // Replace with the actual path to your image
-import img4 from "./emergency-call.png";   // Replace with the actual path to your image
+import img2 from "./group.png";
+import img3 from "./language.png";
+import img4 from "./emergency-call.png";
 
 function AboutPage() {
     return (
